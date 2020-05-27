@@ -11,7 +11,7 @@ https://gsmovieapp.netlify.app/
   <p>It provides all the information of searched queries about movies. It shows movie name, actor, actresses, release date, budget and also storyline!. I additionally intregated links to downloads these by using third party website. It was fun making this project. Lastly, ${Avenger} movie is kept as default source of data fetching to show something to user who browse the website as first.</p>
   
   <h3>Preview</h3>
-![](Screenshot%20(47).png)
+<img src="Screenshot%20(47).png" />
 
 
 
