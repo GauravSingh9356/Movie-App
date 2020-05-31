@@ -6,7 +6,7 @@
       height: 390px;
     }
     #movies .col-md-3 img {
-      height: 300px;
+      height: 360px;
     }
   }
-  
+  body{font-family: 'Gotu', sans-serif; }
