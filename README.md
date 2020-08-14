@@ -1,7 +1,7 @@
 <h1>Movie App</h1>
 
 https://gsmovieapp.netlify.app/
-<h2>##Tech Stacks</h2>
+<h2>Tech Stacks</h2>
 <ul>
   <li>Vanilla js</li>
   <li>API </li>
@@ -13,7 +13,7 @@ https://gsmovieapp.netlify.app/
   [![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20Movie%20App%20at)](https://progressiveapp.store/pwa/Movie-App)
   
   
-  <h3>##Preview</h3>
+  <h3>Preview</h3>
 <img src="Screenshot%20(47).png" />
 
 
